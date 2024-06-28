@@ -1,6 +1,6 @@
 # JavaScript-Sudoku
 
-    Make Sudoku Game With HTML CSS JavaScript
+    Sudoku Game With HTML CSS JavaScript
 
 
 # Resource
