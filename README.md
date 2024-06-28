@@ -9,6 +9,6 @@
 
     Boxicons: https://boxicons.com/
 
-    Images: https://unsplash.com/
+    Images: https://unsplash.com
 
 
